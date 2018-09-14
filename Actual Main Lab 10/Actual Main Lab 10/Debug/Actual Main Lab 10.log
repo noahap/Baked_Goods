@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\noahap\source\repos\actual main lab 10\actual main lab 10\main.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\noahap\source\repos\actual main lab 10\actual main lab 10\main.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\noahap\source\repos\actual main lab 10\actual main lab 10\main.cpp(212): warning C4018: '<': signed/unsigned mismatch
+  Actual Main Lab 10.vcxproj -> C:\Users\noahap\source\repos\Actual Main Lab 10\Debug\Actual Main Lab 10.exe
+  Actual Main Lab 10.vcxproj -> C:\Users\noahap\source\repos\Actual Main Lab 10\Debug\Actual Main Lab 10.pdb (Partial PDB)
